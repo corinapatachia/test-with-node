@@ -17,6 +17,7 @@ describe('Server', () =>{
                 .end(done);
         });
     });
+    //comment to thest test the connection
     
     describe('GET /users', () => {
         it('should return my user object', (done) => {

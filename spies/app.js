@@ -11,4 +11,5 @@ module.exports.handleSignup = (email, password) => {
     });
 
     //Send welcome email
+
 }
